@@ -1,0 +1,33 @@
+_repo: Hark--The-Herald-Angels-Sing_18609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mendelssohn-Bartholdy, Felix
+    aliases:
+    - Mendelssohn, Felix
+    - Mendelssohn, F. (Felix)
+    - Mendelssohn-Bartholdy, Jakob Ludwig Felix
+    - Mendelssohn-Bartholdy, F. (Felix)
+    - Mendelssohn-Bartholdy, Jacob Ludwig Felix
+    birthdate: 1809
+    deathdate: 1847
+    gutenberg_agent_id: '8145'
+    url: http://www.gutenberg.org/2009/agents/8145
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Mendelssohn
+description: ''
+gutenberg_issued: '2006-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'M'
+- !lcsh 'Christmas music'
+title: Hark!  The Herald Angels Sing
+url: http://www.gutenberg.org/ebooks/18609
